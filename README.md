@@ -1,13 +1,22 @@
-# Python Calculator
+# Basic Python Calculator 🧮
 
-This is a beginner-level Python project that performs basic mathematical operations:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-- Power
-## Language
-Python 3
-## How to run:
-Just run the calculator.py file in any Python IDE or compiler.
+This is a simple calculator written in Python. It performs the following operations:
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Modulus (%)
+- Power ()
+
+## 📌 How to Use
+1. Run the calculator.py file in any Python IDE.
+2. Enter two numbers.
+3. Choose the operation by entering its symbol.
+4. Get your result instantly!
+
+## 💻 Language
+- Python 3
+
+## 🧑‍💻 Created by
+[Sadia Ilyas](https://github.com/sadiailyas) 💡
